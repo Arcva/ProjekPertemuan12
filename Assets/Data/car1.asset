@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2e33a26a608bb144808a847d74fc505, type: 3}
   m_Name: car1
   m_EditorClassIdentifier: Assembly-CSharp::CarData
-  carID: 
-  moveSpeed: 1
-  turnSpeed: 1
-  carSprite: {fileID: -4821349618638215618, guid: 534f1d8abfcaa4149a75c96de177f5ba, type: 3}
+  carID: car01
+  moveSpeed: 10
+  turnSpeed: 200
+  carSprite: {fileID: 21300000, guid: 534f1d8abfcaa4149a75c96de177f5ba, type: 3}
